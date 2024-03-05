@@ -1,0 +1,6 @@
+{
+    "access-token":"[Mastodon access token with at least write:statuses permissions]",
+    "server": "[Mastodon server domain, i.e. mastodon.social]",
+    "log-directory": "logs",
+    "log-level": "debug"
+}
