@@ -18,7 +18,7 @@ For both the config file and the CSV a sample has been provided, though the valu
 
 > py schedPost.py -c sample_config.json --file sample_file.csv
 
-The script does require the use of (Requests)[https://pypi.org/project/requests/].
+The script does require the use of [Requests][https://pypi.org/project/requests/].
 
 ## Notes
 The initial version of this is very basic, with lots of improvements that could be made. This mostly serves, right now, as an example of how this could be done.
